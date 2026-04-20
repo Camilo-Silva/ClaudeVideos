@@ -1,0 +1,14 @@
+.playwright-mcp/
+API Key.txt
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.webp
+*.log
+*.yml
+freepik-snap.txt
+*-inicio.png
+*-loggedin.png
+*-generando.png
+*-resultado*.png
